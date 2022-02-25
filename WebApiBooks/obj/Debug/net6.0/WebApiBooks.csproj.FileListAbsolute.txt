@@ -58,3 +58,4 @@ C:\Users\USER\Documents\Facultad\6TO SEMESTRE\Desarrollo Web Back-End\Intento 2\
 C:\Users\USER\Documents\Facultad\6TO SEMESTRE\Desarrollo Web Back-End\Intento 2\WebApiBooks\WebApiBooks\obj\Debug\net6.0\ref\WebApiBooks.dll
 C:\Users\USER\Documents\Facultad\6TO SEMESTRE\Desarrollo Web Back-End\Intento 2\WebApiBooks\WebApiBooks\obj\Debug\net6.0\WebApiBooks.pdb
 C:\Users\USER\Documents\Facultad\6TO SEMESTRE\Desarrollo Web Back-End\Intento 2\WebApiBooks\WebApiBooks\obj\Debug\net6.0\WebApiBooks.genruntimeconfig.cache
+C:\Users\USER\Documents\Facultad\6TO SEMESTRE\Desarrollo Web Back-End\Intento 2\WebApiBooks\WebApiBooks\obj\Debug\net6.0\WebApiBooks.csproj.AssemblyReference.cache

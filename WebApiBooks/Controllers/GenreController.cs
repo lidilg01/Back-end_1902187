@@ -5,7 +5,7 @@ using WebApiBooks.Entidades;
 namespace WebApiBooks.Controllers
 {
     [ApiController]
-    [Route("api/clases")]
+    [Route("api/clases")] //ruta del controllador
     public class GenreController: ControllerBase
     {
         private readonly ApplicationDbContext dbContext;
