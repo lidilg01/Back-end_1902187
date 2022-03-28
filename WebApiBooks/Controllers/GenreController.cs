@@ -5,24 +5,28 @@ using WebApiBooks.Entidades;
 namespace WebApiBooks.Controllers
 {
     [ApiController]
-    [Route("api/clases")] //ruta del controllador
+    [Route("api/genre")] //ruta del controlador
     public class GenreController: ControllerBase
     {
         private readonly ApplicationDbContext dbContext;
+        private readonly ILogger<GenreController> log;
         public GenreController (ApplicationDbContext context)
         {
             this.dbContext = context;
         }
 
         [HttpGet]
+        [HttpGet("/listadoGenre")]
         public async Task<ActionResult<List<Genre>>> GetAll()
         {
+            log.LogInformation("Obteniendo listado de generos");
             return await dbContext.Genres.ToListAsync();
         }
 
         [HttpGet("{id:int}")]
         public async Task<ActionResult<Genre>> GetById(int id)
         {
+            log.LogInformation("EL ID ES: " + id);
             return await dbContext.Genres.FirstOrDefaultAsync(x => x.Id == id);
         }
 

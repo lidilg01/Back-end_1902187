@@ -1,11 +1,71 @@
 {
   "Version": 1,
-  "Hash": "pVStDD8Tpg4a3pNe921KIYlAFAqbLHXe9/hfvQAqNKw=",
+  "Hash": "DElT3nX2p1+chb7sVLF6RBAfFPb5Wd14AXXbSX6/Yls=",
   "Source": "WebApiBooks",
   "BasePath": "_content/WebApiBooks",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebApiBooks\\wwwroot",
+      "Source": "WebApiBooks",
+      "ContentRoot": "C:\\Users\\USER\\Documents\\Facultad\\6TO SEMESTRE\\Desarrollo Web Back-End\\Intento 2\\WebApiBooks\\WebApiBooks\\wwwroot\\",
+      "BasePath": "_content/WebApiBooks",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\USER\\Documents\\Facultad\\6TO SEMESTRE\\Desarrollo Web Back-End\\Intento 2\\WebApiBooks\\WebApiBooks\\wwwroot\\Archivo 1.txt",
+      "SourceId": "WebApiBooks",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Documents\\Facultad\\6TO SEMESTRE\\Desarrollo Web Back-End\\Intento 2\\WebApiBooks\\WebApiBooks\\wwwroot\\",
+      "BasePath": "_content/WebApiBooks",
+      "RelativePath": "Archivo 1.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Archivo 1.txt"
+    },
+    {
+      "Identity": "C:\\Users\\USER\\Documents\\Facultad\\6TO SEMESTRE\\Desarrollo Web Back-End\\Intento 2\\WebApiBooks\\WebApiBooks\\wwwroot\\nuevoRegistros.txt",
+      "SourceId": "WebApiBooks",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Documents\\Facultad\\6TO SEMESTRE\\Desarrollo Web Back-End\\Intento 2\\WebApiBooks\\WebApiBooks\\wwwroot\\",
+      "BasePath": "_content/WebApiBooks",
+      "RelativePath": "nuevoRegistros.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\nuevoRegistros.txt"
+    },
+    {
+      "Identity": "C:\\Users\\USER\\Documents\\Facultad\\6TO SEMESTRE\\Desarrollo Web Back-End\\Intento 2\\WebApiBooks\\WebApiBooks\\wwwroot\\registroConsultado.txt",
+      "SourceId": "WebApiBooks",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Documents\\Facultad\\6TO SEMESTRE\\Desarrollo Web Back-End\\Intento 2\\WebApiBooks\\WebApiBooks\\wwwroot\\",
+      "BasePath": "_content/WebApiBooks",
+      "RelativePath": "registroConsultado.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\registroConsultado.txt"
+    }
+  ]
 }
